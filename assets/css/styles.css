@@ -411,6 +411,7 @@ img{
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
+    background-color: var(--first-color);
 }
 
 .about__description{
